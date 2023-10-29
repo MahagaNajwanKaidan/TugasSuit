@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.a4687eae.css",
-    "main.js": "/static/js/main.ec51f937.js",
+    "main.js": "/static/js/main.9fc4ffea.js",
     "static/media/keheninggan.jpg": "/static/media/keheninggan.920d3e84602940f82e60.jpg",
     "index.html": "/index.html",
     "main.a4687eae.css.map": "/static/css/main.a4687eae.css.map",
-    "main.ec51f937.js.map": "/static/js/main.ec51f937.js.map"
+    "main.9fc4ffea.js.map": "/static/js/main.9fc4ffea.js.map"
   },
   "entrypoints": [
     "static/css/main.a4687eae.css",
-    "static/js/main.ec51f937.js"
+    "static/js/main.9fc4ffea.js"
   ]
 }
